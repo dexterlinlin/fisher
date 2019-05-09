@@ -91,3 +91,9 @@ fisher-gateway
 - [x] 日志记录 -- 完成
 - [x] 代码生成 -- 完成
 
+# 捐赠
+
+如果觉得本项目对您有帮助，您的鼓励是作者持续更新的动力，谢谢！
+
+![zfb](https://github.com/fanxinglong/fisher/blob/master/docs/zfb.png) 
+![wx](https://github.com/fanxinglong/fisher/blob/master/docs/wx.png) 
